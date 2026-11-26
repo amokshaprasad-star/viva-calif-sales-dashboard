@@ -1,6 +1,6 @@
 # Viva Calif Sales Performance Dashboard
 
-![Dashboard preview](images/dashboard.png)
+![Dashboard preview](dashboard.png.png)
 
 ## Overview
 An Excel dashboard summarising orders, sales, units, ratings and delivery for a California apparel business.
@@ -8,7 +8,7 @@ An Excel dashboard summarising orders, sales, units, ratings and delivery for a 
 **Tools:** Excel, Pivot Tables, Slicers
 
 ## Dataset
-2,400 orders. [Add source and columns]
+2,400 orders.
 
 ## What I did
 - Summarised orders, sales, units, average rating and delivery time.
