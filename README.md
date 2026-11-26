@@ -1,6 +1,6 @@
 # Viva Calif Sales Performance Dashboard
 
-![Dashboard preview](dashboard.png(2).png)
+![Dashboard preview](dashboard.png (2).png)
 
 ## Overview
 An Excel dashboard summarising orders, sales, units, ratings and delivery for a California apparel business.
